@@ -1,4 +1,4 @@
-# Resumen_IApp
+# Resumen IApp
 Flutter App para resumir y responder preguntas acerca de cualquier libro usando ChatGPT
 
 ## Desarrollado en:
